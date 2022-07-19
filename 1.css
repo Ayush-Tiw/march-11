@@ -1,0 +1,10 @@
+p::after{
+    content:"I Love  Pizza";
+    color:violet;
+    background-color:aqua;
+}
+p::before{
+    content:"AVANTIKA";
+    color:orange;
+background-color:yellow
+}
